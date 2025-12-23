@@ -1,9 +1,4 @@
-<h1 align="center">🍽️ React Native Recipe App 🍽️</h1>
-
-![Demo App](/mobile/assets/images//screenshot-for-readme.png)
-
-## 🧪 .env Setup
-
+<h1 align="center">Kelompok 7 AI</h1>
 ### Backend (`/backend`)
 
 ```bash
