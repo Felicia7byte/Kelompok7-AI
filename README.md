@@ -15,7 +15,7 @@ npm install
 npm run dev
 ```
 
-## Run the Mobile App
+## Run the App
 
 ```bash
 cd mobile
